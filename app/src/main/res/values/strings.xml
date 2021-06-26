@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Dokter Kebun</string>
+    
+    <string name="weed_name">Nama gulma</string>
+    <string name="weed_scientific">Nama ilmiah</string>
+    <string name="string_dokter_kebun_logo">string/dokter_kebun_logo</string>
+    <string name="about">Aplikasi ini dibuat untuk memenuhi tugas mata kuliah Pengembangan Aplikasi Bergerak yang diampu oleh Pak Ardhi.</string>
+    <string name="dev">Pengembang</string>
+    <string name="dev_umar_sani">- Umar Sani (M0518064)</string>
+    <string name="dev_salma_nida_khofiyya">- Salma Nida Khofiyya (M0518053)</string>
+    <string name="dev_yosafat_eka_raharja">- Yosafat Eka Raharja (M0518068)</string>
+    <string name="dev_tsamrotul_fathiyah">- Tsamrotul Fathiyah N. (M0518062)</string>
+    <string name="btn_kamera">Kamera</string>
+    <string name="btn_kamera_icon">Ikon Kamera</string>
+    <string name="btn_galeri">Galeri</string>
+    <string name="btn_galeri_icon">Ikon Galeri</string>
+    <string name="result_meniran">Meniran</string>
+    <string name="result_meniren_scientitific">Phyllanthus niruri L.</string>
+    <string name="result_meniren">Gambar meniran</string>
+    <string name="deskripsi_umum">Deskripsi Umum</string>
+    <string name="descripsi_umum_value">Meniran merupakan gulma berdaun lebar, gulma daun meniran berdaun menyirip. Setiap satu tagkai daun meniran terdapat daun majemuk dengan ukuran kecil, berbentuk lonjong. Batangnya berbentuk bula, basah dan berwarna hijau. Bunga tunggal tumbuh pada ketiak daun dan berwarna putih. Meniran memiliki akar tunggang berwarna putih.</string>
+    <string name="ciri_ciri">Ciri-Ciri</string>
+    <string name="ciri_ciri_value">Meniran merupakan gulma berdaun lebar, gulma daun meniran berdaun menyirip. Setiap satu tagkai daun meniran terdapat daun majemuk dengan ukuran kecil, berbentuk lonjong. Batangnya berbentuk bula, basah dan berwarna hijau. Bunga tunggal tumbuh pada ketiak daun dan berwarna putih. Meniran memiliki akar tunggang berwarna putih.</string>
+    <string name="nav_beranda">Beranda</string>
+    <string name="nav_catalog">Katalog</string>
+    <string name="nav_about">Tentang</string>
+
+    <string-array name="data_name">
+        <item>Meniran</item>
+        <item>Rumput Mutiara</item>
+        <item>Krokot</item>
+        <item>Alang-Alang</item>
+        <item>Genjer</item>
+        <item>Baru Cina</item>
+        <item>Bandotan</item>
+        <item>Anting-Anting</item>
+        <item>Patikan Kebo</item>
+        <item>Putri Malu</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Phyllanthus niruri</item>
+        <item>Hedyotis corymbosa</item>
+        <item>Protulaca orela</item>
+        <item>Imperata cylindrica</item>
+        <item>Limnocharis flava</item>
+        <item>Artemisia vulgaris</item>
+        <item>Ageratum conyzoides</item>
+        <item>Acalypha indica</item>
+        <item>Euphorbia hirta</item>
+        <item>Mimosa pudica</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+        <item>@drawable/h</item>
+        <item>@drawable/i</item>
+        <item>@drawable/j</item>
+    </array>
+</resources>

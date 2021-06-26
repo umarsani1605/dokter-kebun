@@ -1,0 +1,16 @@
+com/umarsani/pab/tubes/fragments/InferenceFragmentArgs.java
+ com.umarsani.pab.tubes.fragments.InferenceFragmentArgs
+ com.umarsani.pab.tubes.fragments.InferenceFragmentArgs$1
+ com.umarsani.pab.tubes.fragments.InferenceFragmentArgs$Builder
+com/umarsani/pab/tubes/ml/Model.java
+ com.umarsani.pab.tubes.ml.Model
+ com.umarsani.pab.tubes.ml.Model$1
+ com.umarsani.pab.tubes.ml.Model$Outputs
+com/umarsani/pab/tubes/fragments/CameraFragmentDirections.java
+ com.umarsani.pab.tubes.fragments.CameraFragmentDirections
+ com.umarsani.pab.tubes.fragments.CameraFragmentDirections$1
+ com.umarsani.pab.tubes.fragments.CameraFragmentDirections$ActionCameraToInference
+com/umarsani/pab/tubes/fragments/PermissionsFragmentDirections.java
+ com.umarsani.pab.tubes.fragments.PermissionsFragmentDirections
+com/umarsani/pab/tubes/BuildConfig.java
+ com.umarsani.pab.tubes.BuildConfig
